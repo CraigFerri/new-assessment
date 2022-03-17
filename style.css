@@ -1,5 +1,19 @@
-/* add code here to make your image 300px square */
-
+* add code here to make your image 300px square */
+img {
+        object-fit: cover;
+        height:300px;
+        width:auto;
+        
+      }
 /* add code here to change the color and font family of your name/title */
+h1 {
+    color: chartreuse;
+    font-style: italic;
+}
 
 /* Bonus: change the color of your list elements */
+ol{
+color: purple;
+    font-family: fantasy ;
+}
+
